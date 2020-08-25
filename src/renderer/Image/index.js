@@ -114,7 +114,6 @@ const getImageComponent = config => class Image extends Component {
               :
               undefined
           }
-          <p></p>
         </span>
       </span>
     );
